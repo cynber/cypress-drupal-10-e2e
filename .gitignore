@@ -1,0 +1,7 @@
+# Cypress env files
+**/cypress.env.json
+
+# Local env files
+.env
+.env.*
+!.env.example
